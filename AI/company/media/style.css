@@ -1,0 +1,28 @@
+body{
+    background-color:aqua;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+video{
+    height:300px;
+    width:600px;
+    border:thick solid #000000;
+    border-radius: 8px;
+    border-width: 15px;
+}
+input[type="submit"]{
+    border: 1px solid #000;
+    border-radius: 10px;
+    font-size: 20px;
+  height: 50px;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  }
+input{
+    border: 1px solid #000;
+    border-radius: 10px;
+    font-size: 20px;
+  }
